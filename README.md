@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 目前正在学习UE4打开与关闭相关的工作
-- 🌱 你还还可以在![知乎](https://www.zhihu.com/people/Smartuil.)找到我
+- 🔭 我目前正在学习UE4打开与关闭相关的工作
+- 🌱 你还可以在[知乎](https://www.zhihu.com/people/Smartuil.)找到我
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
