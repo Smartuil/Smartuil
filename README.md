@@ -15,12 +15,15 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 ![Smartuil's github stats](https://github-readme-stats.vercel.app/api?username=smartuil&show_icons=true)
+![Dino](https://github.com/Smartuil/Smartuil/blob/master/dino.gif)
+
+![Dino](https://github.com/Smartuil/Smartuil/blob/master/Spiderman.gif)
 -->
 
 <table>
 <td valign="top" width="50%">
 
-📊 **Smartuil's github stats**
+🐱‍🏍 **Smartuil's github stats**
 ![Smartuil's github stats](https://github-readme-stats.vercel.app/api?username=smartuil&show_icons=true)
 
 </td>
@@ -38,6 +41,6 @@ Week: 13 July, 2020 - 20 July, 2020
 </td>
 </table>
 
-![Dino](dino.gif)
+![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
 
-![Dino](Spiderman.gif)
+
