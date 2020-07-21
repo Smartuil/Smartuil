@@ -1,4 +1,9 @@
 <h2 align="center">👋 Hello! I'm Smartuil.</h2>
+<p align="center">
+  <a href="https://github.com/Smartuil"><img src="https://img.shields.io/badge/GitHub-24292e" alt="github"></a>
+  <a href="https://gitee.com/smartuil"><img src="https://img.shields.io/badge/Gitee-fe7300" alt="gitee"></a>
+  <a href="https://www.zhihu.com/people/Smartuil."><img src="https://img.shields.io/badge/dynamic/json?color=blue&label=%E7%9F%A5%E4%B9%8E%E5%85%B3%E6%B3%A8%E8%80%85&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dzhihu%26queryKey%3DSmartuil." alt="csdn"></a>
+</p>
 
 - 🔭 我目前正在学习UE4打开与关闭相关的工作
 - 🌱 你还可以在[知乎](https://www.zhihu.com/people/Smartuil.)找到我
@@ -9,11 +14,17 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![Smartuil's github stats](https://github-readme-stats.vercel.app/api?username=smartuil&show_icons=true)
 -->
 
-![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
+<table>
+<td valign="top" width="50%">
 
+📊 **Smartuil's github stats**
 ![Smartuil's github stats](https://github-readme-stats.vercel.app/api?username=smartuil&show_icons=true)
+
+</td>
+<td valign="top" width="50%">
 
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
@@ -21,5 +32,12 @@
 Week: 13 July, 2020 - 20 July, 2020
 
 
+
 ```
+
 <!--END_SECTION:waka-->
+
+</td>
+</table>
+
+![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
