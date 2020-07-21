@@ -38,4 +38,6 @@ Week: 13 July, 2020 - 20 July, 2020
 </td>
 </table>
 
-![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
+![Dino](dino.gif)
+
+![Dino](Spiderman.gif)
