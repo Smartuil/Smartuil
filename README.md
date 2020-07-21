@@ -12,5 +12,5 @@
 -->
 
 ![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
-#
+
 ![Smartuil's github stats](https://github-readme-stats.vercel.app/api?username=smartuil&show_icons=true)
