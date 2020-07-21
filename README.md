@@ -10,4 +10,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=smartuil&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
+#
+![Smartuil's github stats](https://github-readme-stats.vercel.app/api?username=smartuil&show_icons=true)
