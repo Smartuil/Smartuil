@@ -43,4 +43,4 @@ Week: 14 July, 2020 - 21 July, 2020
 
 ![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
 
-![Dino](1.gif)
+![Dino](https://github.com/Smartuil/Smartuil/blob/master/1.gif?raw=true)
