@@ -12,7 +12,7 @@ on:
   schedule:
     # Runs at 12am UTC
     # Runs every hour, on the hour
-    - cron: '0 * * * *'
+    - cron: '0 0 * * *'
 
 jobs:
   update-readme:

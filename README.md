@@ -23,7 +23,7 @@
 <table>
 <td valign="top" width="50%">
 
-🐱‍🏍 **Smartuil's github stats**
+👀 **Smartuil's github stats**
 ![Smartuil's github stats](https://github-readme-stats.vercel.app/api?username=smartuil&show_icons=true)
 
 </td>
@@ -43,5 +43,8 @@ Week: 14 July, 2020 - 21 July, 2020
 
 ![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
 
+![Dino](Spiderman.gif)
+
+[![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](http://youtu.be/vt5fpE0bzSY)
 
 <video src="1.mp4" controls="controls" width="500" height="300">您的浏览器不支持播放该视频！</video>
