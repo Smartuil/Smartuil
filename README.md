@@ -32,7 +32,7 @@
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
-Week: 13 July, 2020 - 20 July, 2020
+Week: 14 July, 2020 - 21 July, 2020
 
 
 ```
