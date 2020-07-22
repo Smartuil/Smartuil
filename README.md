@@ -23,7 +23,7 @@
 <table>
 <td valign="top" width="50%">
 
-🐱‍🏍 **Smartuil's github stats**
+👀 **Smartuil's github stats**
 ![Smartuil's github stats](https://github-readme-stats.vercel.app/api?username=smartuil&show_icons=true)
 
 </td>
