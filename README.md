@@ -1,4 +1,4 @@
-﻿<h2 align="center">👋 Hello! I'm Smartuil.</h2>
+<h2 align="center">👋 Hello! I'm Smartuil.</h2>
 <p align="center">
   <a href="https://github.com/Smartuil"><img src="https://img.shields.io/badge/GitHub-24292e" alt="github"></a>
   <a href="https://gitee.com/smartuil"><img src="https://img.shields.io/badge/Gitee-fe7300" alt="gitee"></a>
@@ -43,9 +43,10 @@ Objective-C   13 mins         ░░░░░░░░░░░░░░░░�
 </td>
 </table>
 
+<p align="center">
+  <img src="https://github.com/Smartuil/Smartuil/blob/master/welcome.gif?raw=true" alt="github">
+</p>
+
 ![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
 
 ![Dino](https://github.com/Smartuil/Smartuil/blob/master/1.gif?raw=true)
-
-
-![Dino](welcome.png)
