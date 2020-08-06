@@ -20,6 +20,11 @@
 ![Dino](https://github.com/Smartuil/Smartuil/blob/master/Spiderman.gif)
 -->
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/smartuil/count.svg" />
+</p>
+
 <table>
 <td valign="top" width="50%">
 
