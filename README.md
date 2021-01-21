@@ -35,9 +35,12 @@ C++     28 mins         ▒░░░░░░░░░░░░░░░░░�
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=smartuil" alt="github">
- </p>
+</p>
  
-![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif" alt="github">
+</p>
+
 
 <!--
 - 👯 I’m looking to collaborate on ...
