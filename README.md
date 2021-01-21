@@ -7,18 +7,6 @@
 
 - 🔭 我目前正在学习UE4打开与关闭相关的工作
 - 🌱 你还可以在[知乎](https://www.zhihu.com/people/Smartuil.)找到我
-<!--
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-![Smartuil's github stats](https://github-readme-stats.vercel.app/api?username=smartuil&show_icons=true)
-![Dino](https://github.com/Smartuil/Smartuil/blob/master/dino.gif)
-
-![Dino](https://github.com/Smartuil/Smartuil/blob/master/Spiderman.gif)
--->
 
 <p align="center"> 
   Visitor count<br>
@@ -46,9 +34,23 @@ C++     28 mins         ▒░░░░░░░░░░░░░░░░░�
 </table>
 
 <p align="center">
-  <img src="https://github.com/Smartuil/Smartuil/blob/master/welcome.gif?raw=true" alt="github">
-</p>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=smartuil" alt="github">
+ </p>
+ 
 ![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
 
+<!--
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+![Smartuil's github stats](https://github-readme-stats.vercel.app/api?username=smartuil&show_icons=true)
+![Dino](https://github.com/Smartuil/Smartuil/blob/master/dino.gif)
+![Dino](https://github.com/Smartuil/Smartuil/blob/master/Spiderman.gif)
+<p align="center">
+  <img src="https://github.com/Smartuil/Smartuil/blob/master/welcome.gif?raw=true" alt="github">
+</p>
 ![Dino](https://github.com/Smartuil/Smartuil/blob/master/1.gif?raw=true)
+-->
