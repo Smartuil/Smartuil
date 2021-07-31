@@ -25,7 +25,8 @@
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+C++           50 mins         ██████████████████████░░░   88.37 % 
+Git Config    6 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
 ```
 <!--END_SECTION:waka-->
 
