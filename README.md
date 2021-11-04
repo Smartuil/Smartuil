@@ -25,7 +25,7 @@
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
-C++          6 mins          ████████████████████████▓   99.01 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
