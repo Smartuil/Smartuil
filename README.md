@@ -26,7 +26,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other   8 hrs 56 mins   █████████████████████████   100.00 %
+Other   8 hrs 36 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
