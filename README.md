@@ -17,8 +17,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other      4 hrs 13 mins         >>>>>>>>>>>>>>>>>>>>>>>>>   99.60 %
-Markdown   1 min                 -------------------------   00.40 %
+Other   4 hrs 41 mins         >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
 ```
 
 <!--END_SECTION:waka-->
