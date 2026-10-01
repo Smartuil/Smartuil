@@ -17,8 +17,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other         3 hrs 16 mins         >>>>>>>>>>>>>>>>>>>>>>>>-   97.25 %
-Objective-C   5 mins                >------------------------   02.75 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
