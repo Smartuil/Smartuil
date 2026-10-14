@@ -17,8 +17,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other         4 hrs 35 mins         >>>>>>>>>>>>>>>>>>>>>>>>>   98.27 %
-Objective-C   4 mins                -------------------------   01.73 %
+Other         7 hrs 57 mins         >>>>>>>>>>>>>>>>>>>>>>>>-   94.49 %
+Objective-C   27 mins               >------------------------   05.51 %
 ```
 
 <!--END_SECTION:waka-->
