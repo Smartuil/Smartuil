@@ -17,7 +17,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Other            2 hrs 22 mins         >>>>>>>>>>>>>>>>>>>>>>>--   92.30 %
+Objective-C      11 mins               >>-----------------------   07.13 %
+C                0 secs                -------------------------   00.23 %
+C/C              0 secs                -------------------------   00.20 %
+GitIgnore file   0 secs                -------------------------   00.13 %
 ```
 
 <!--END_SECTION:waka-->
